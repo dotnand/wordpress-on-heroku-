@@ -1,4 +1,6 @@
 <?php
+update_option('siteurl','http://nand-kishore.tk/');
+update_option('home','http://nand-kishore.tk/');
     require_once TEMPLATEPATH . '/lib/Themater.php';
     $theme = new Themater('Learner');
     $theme->options['includes'] = array('featuredposts', 'social_profiles');
