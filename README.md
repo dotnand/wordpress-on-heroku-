@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # wordpress-on-heroku
 
 This is a project where you can run wordpress on heroku..........With PostgreSQL
@@ -27,4 +27,3 @@ Main important database setting use like folling
            
 
 For any help you can contact me dotnand@gmail.com
->>>>>>> 235d632867aca705b30c7268d4b626ba6b731d5f
