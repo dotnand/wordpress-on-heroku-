@@ -54,7 +54,7 @@
             You can buy this theme without footer links online at http://newwpthemes.com/buy/?theme=learner
         */ ?>
         
-        <div id="credits">Powered by <a href="http://wordpress.org/"><strong>WordPress</strong></a> | Designed by: <a href="http://www.wordpressfreethemes.org/" title="free wordpress themes">Free WordPress Themes</a> that Recommend <a href="http://www.webhostingservices.ws/" title="web hosting reviews">Web Hosting Reviews</a></div><!-- #credits -->
+        <div id="credits">Powered by <a href="http://wordpress.org/"><strong>WordPress</strong></a> |   : <a href="http://www.wordpressfreethemes.org/" title="free wordpress themes">Free WordPress Themes</a> that Recommend <a href="http://www.webhostingservices.ws/" title="web hosting reviews">Web Hosting Reviews</a></div><!-- #credits -->
         
     </div><!-- #footer -->
     
