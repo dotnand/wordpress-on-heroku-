@@ -1,6 +1,4 @@
 <?php
-update_option('siteurl','http://quiet-brook-5967.herokuapp.com/');
-update_option('home','http://quiet-brook-5967.herokuapp.com/');
     require_once TEMPLATEPATH . '/lib/Themater.php';
     $theme = new Themater('Learner');
     $theme->options['includes'] = array('featuredposts', 'social_profiles');
