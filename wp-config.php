@@ -1,6 +1,4 @@
 <?php
-define('WP_HOME','http://nand-kishore.tk');
-define('WP_SITEURL','http://nand-kishore.tk');
 /**
  * The base configurations of the WordPress.
  *
